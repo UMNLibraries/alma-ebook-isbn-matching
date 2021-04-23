@@ -1,4 +1,4 @@
-# bookstore-ebooks
+# alma-ebook-isbn-matching
 Scripts and instructions for combining metadata from Alma, Alma Analytics, and another source (for example, a spreadsheet of assigned course books from a campus bookstore) to create a spreadsheet of library-owned course-assigned ebooks with proxied URLs.
 
 ## Scripts
